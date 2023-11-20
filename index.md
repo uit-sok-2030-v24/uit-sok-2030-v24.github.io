@@ -24,7 +24,7 @@ Kurset består av ulike interessante tema
 
 
 ## Faglærerinfo  
-- [Anita. MichalsenClark](https://uit.no/ansatte/anita.michalsen){:target="blank"} (fagansvarlig)
+- [Anita. Michalsen](https://uit.no/ansatte/anita.michalsen){:target="blank"} (fagansvarlig)
 
 
 
