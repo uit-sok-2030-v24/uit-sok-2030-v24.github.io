@@ -61,12 +61,10 @@ Det første vi må gjøre er å lage en "organisasjon", som skal eie kurssiden. 
 	Du kan redigere eksisterende lenker ved å endre på lenkeadressen og lenketeksten. Om du trenger flere lenker, så bare kopier én av lenkene og endre denne. <br><br>
 	**MERK!** Markupfiler konverteres automatisk til html-filer. Om du ønsker å lenke til en markdown \*.md-fil, må du derfor endre filendelsen fra ".md" til ".html". <br><br> ![image](https://uit-econ.github.io/images/editnavigate.png)
 
-3. Det er allerede maler for startsiden ("start.md"), forelesningsplan ("forelesningsplan.md"),
+3. Det er allerede maler for startsiden ("index.md"), forelesningsplan ("forelesningsplan.md"),
 	seminarer ("seminarplan.md") and innleveringer ("innleveringer.md"). Du kan se av disse eksemplene hvordan du lager lenker og tabeller. <br><br>
 	**VIKTIG!** Om du lager en ny markdownfil (.md), legg alltid inn **\{\% include navbar.html \%\}\{\% include top-box.html \%\}** i toppen av dokumentet. Dette sørger for at venstremenyen og topp-boksen lastes med siden.<br><br>
 
-Unntaket fra denne regelen er at "start.md" ***aldri*** skal ha uttrykket med kurvparenteser øverst.<br><br>
-Filene "index.md" og "index_open.md" skal ikke redigeres. <br><br>
 
 ## 5. Redigere hovedsiden for *Samfunnsøkonomi med datavitenskap*
 For å gjøre kurssiden tilgjengelig for studentene fra [hovedsiden](https://uit-econ.github.io/), må du redigere emnet der. 
@@ -93,7 +91,7 @@ For å gjøre kurssiden tilgjengelig for studentene fra [hovedsiden](https://uit
 			&#123;% include nettsideApnerBunn.html %&#125;   <br>
 	</div>
 	<br><br>
-	* Om det lå en kursbeskrivelse, kan du eventuelt kopiere den og lime innholdet inn i "start.md" i kursets github repositorie. 
+	* Om det lå en kursbeskrivelse, kan du eventuelt kopiere den og lime innholdet inn i "index.md" i kursets github repositorie. 
 	* Dersom siden ikke ser ut som ovenfor, så 
 		* sletter du all tekst som er der
 		* limer inn teksten ovenfor

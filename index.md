@@ -1,4 +1,4 @@
-{% include navbar.html %}  {% include top-box.html %} {% include start.md %}
+{% include navbar.html %}  {% include top-box.html %}
 
 
 ## [Slik lager du et kursrepositorie](readme_no.html){:target="blank"} (Slettes)

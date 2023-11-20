@@ -60,11 +60,10 @@ The purpose of this is to make the repository the default page of the organizati
 You can edit existing links by changing the link address and the link text. If you need more items, just copy one of the links and change it.<br><br> 
 **NOTE!** The markup files are automatically converted to html-files. If you want to link to a markdown \*.md-file, you must change the file extension from ".md" to ".html". <br><br> ![image](https://uit-econ.github.io/images/editnavigate.png)
 
-3. There are all ready templates in Norwegian for the start page ("start.md"), lecture plan ("forelesningsplan.md"),
+3. There are all ready templates in Norwegian for the start page ("index.md"), lecture plan ("forelesningsplan.md"),
 tutorial plan ("seminarplan.md") and plan for submissions ("innleveringer.md"). You can see from these examples how you create links and tables.<br><br>
 **IMPORTANT!** If you create new markup (.md) files, always put **\{\% include navbar.html \%\}\{\% include top-box.html \%\}** in the top of the document. This ensures that the left menu and the top heading box are loaded with the page.<br><br>
-The exception from this rule is "start.md" that should ***not*** have the curly bracket expression in the top.<br><br>
-The files "index.md" and "index_open.md" should not be edited. <br><br>
+
 
 ## 5. Edit the *Samfunnsøkonomi med datavitenskap* main page
 In order for your course page to be available from the [main page](https://uit-econ.github.io/), you need to edit the corresponding item there. 
@@ -91,7 +90,7 @@ In order for your course page to be available from the [main page](https://uit-e
 			&#123;% include nettsideApnerBunn.html %&#125;   <br>
 	</div>
 	<br><br>
-	* If there was a course description there, you can copy it to "start.md" in the course repository you just created, if you want. 
+	* If there was a course description there, you can copy it to "index.md" in the course repository you just created, if you want. 
 	* If the page does not look like above, you should do the following 
 		* delete all text
 		* past the text above
