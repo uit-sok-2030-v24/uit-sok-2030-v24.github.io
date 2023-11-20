@@ -22,7 +22,7 @@
 |            |          | Oppgaver frikonkurranse og monopol|
 |30. januar |Forelesning 4|Monopol og 1.- og 2. grads prisdiskriminering|PRN kap. 6.1 - 6.3 og Python Del 2 - 6.1|    
 |7. februar |Forelesning 5|Monopol og produktvalg|PRN kap. 7.1 - 7.5 og Python Del 2 - 7.3 og 7.5|   
-|13. februar |Gjesteforelesning |Prisstrategi for Hurtigruten med Thomas Larsen ||   
+|13. februar |Gjesteforelesning |Prisstrategi for  ||   
 |. februar |Seminar 2|Monopol, prisdiskriminering og produktvalg||   
 |  |   |   |
 |            |              |Del 3 Oligopolmodeller|    |
