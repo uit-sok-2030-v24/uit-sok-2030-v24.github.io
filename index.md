@@ -22,17 +22,15 @@ Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligato
 Konkurransestrategi handler om forståelse av hvordan markeder og bransjer fungerer. Kurset vil gi en oversikt over ulike teorier og modeller for konkurranse og strategisk interaksjon mellom bedrifter, og innsikt i hvordan markedsforhold påvirker konkurransen mellom bedrifter. Med formål om å forstå hvordan bedrifter kan opptre strategisk i markeder for å oppnå konkurransefordeler eller redusert konkurranse.
 
 I kurset vil blant annet følgende tema belyses:
-
-Monopol, prisdiskriminering og produktvalg
-Basismodeller for pris- og kvantumskonkurranse
-Prissamarbeid og strategiske bidinger
-Markedskonsentrasjon, fusjoner og oppkjøp
-Vertikale relasjoner
-For læringsmål se: Læringsutbyttebeskrivelse{:target="blank"}
+-	Monopol, prisdiskriminering og produktvalg
+-	Basismodeller for pris- og kvantumskonkurranse
+-	Prissamarbeid og strategiske bidinger
+-	Markedskonsentrasjon, fusjoner og oppkjøp
+-	Vertikale relasjoner
 
 
-## Faglærerinfo  
-- [Anita. Michalsen](https://uit.no/ansatte/anita.michalsen){:target="blank"} (fagansvarlig)
+For læringsmål se: [Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=785825&ar=2023&semester=V){:target="blank"}
+
 
 
 
