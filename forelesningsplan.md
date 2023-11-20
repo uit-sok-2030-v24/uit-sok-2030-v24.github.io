@@ -8,9 +8,9 @@
 
 | Tid            | Sted            | Tema               |
 |----------------|-----------------|--------------------|
-|xx.xx  xx:xx    |Tromsø           |git                 |
-|xx.xx  xx:xx    |Tromsø           |python              |
-|xx.xx  xx:xx    |Tromsø           |R                   |
+|09.januar       |Forelesning 1    |Introduksjon                |
+|xx.xx  xx:xx    |Tromsø           |             |
+|xx.xx  xx:xx    |Tromsø           |                  |
 |xx.xx  xx:xx    |Tromsø           |Samfunnsøkonomi     |
    
 
