@@ -7,7 +7,7 @@
 
 |Uke | Seminarnr. | Tema                        |  Oppgaver og ressurser  |
 |----|------------|-----------------------------|-------------------------|
-| x  | x          | Tilbud og etterspørsel I    | kommer                  |
-| x  | x          | IS-LM                       | kommer                  |
-| x  | x          | R                           | kommer                  |
-| x  | x          | Python                      | kommer                  |
+| x  | x          |     | kommer                  |
+| x  | x          |                        | kommer                  |
+| x  | x          |                            | kommer                  |
+| x  | x          |                       | kommer                  |
