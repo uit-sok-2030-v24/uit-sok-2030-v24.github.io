@@ -10,19 +10,15 @@
 |------------|--------------|------------------------|----------------|
 |   |    |   |   |
 |            |  |Del 1 Introduksjon og markedsanalyse|    |
-|09. januar  |Forelesning 1 |Introduksjon, markedsstruktur og konsentrasjon            |PRN kap.1 og 3.1
-|            |              |Markedsstruktur og konsentrasjon              
-|16. januar  |Forelesning 2 |Grunnleggende mikroøkonomi|PRN kap. 2.1 - 2.2 og 4.1|
-|            |              |Frikonkurranse og monopol|Python Del 1 - 2.1.1, 2.1.2 og 2.2|
-|  |   |   |
+|09. januar  |Forelesning 1 |Introduksjon, markedsstruktur og konsentrasjon            |PRN kap.1 og 3.1            
+|16. januar  |Forelesning 2 |Grunnleggende mikroøkonomi,Frikonkurranse og monopol |PRN kap. 2.1 - 2.2 og 4.1,Python Del 1 - 2.1.1, 2.1.2 og 2.2|
 |            |              |Del 2 Monopol i teori og praksis|    |
-|23. januar  |Forelesning 3 |Monopol og 3. grads prisdiskriminering            |PRN kap. 5.1 - 5.5|  
-|            |              |                                |Python Del 2 - 5.3|
+|18. januar  |Forelesning 3 |Monopol og 3. grads prisdiskriminering            |PRN kap. 5.1 - 5.5, Python Del 2 - 5.3|  
 |  |Seminar 1 |Mappeoppgave 1 - problemformuleirng og struktur ||
 |            |          | Oppgaver frikonkurranse og monopol|
-|30. januar |Forelesning 4|Monopol og 1.- og 2. grads prisdiskriminering|PRN kap. 6.1 - 6.3 og Python Del 2 - 6.1|    
-|7. februar |Forelesning 5|Monopol og produktvalg|PRN kap. 7.1 - 7.5 og Python Del 2 - 7.3 og 7.5|   
-|13. februar |Gjesteforelesning |Prisstrategi for  ||   
+|23. januar |Forelesning 4|Monopol og 1.- og 2. grads prisdiskriminering|PRN kap. 6.1 - 6.3 og Python Del 2 - 6.1|    
+|30. januar |Forelesning 5|Monopol og produktvalg|PRN kap. 7.1 - 7.5 og Python Del 2 - 7.3 og 7.5|   
+|7. februar |Gjesteforelesning |Prisstrategi for  ||   
 |. februar |Seminar 2|Monopol, prisdiskriminering og produktvalg||   
 |  |   |   |
 |            |              |Del 3 Oligopolmodeller|    |
