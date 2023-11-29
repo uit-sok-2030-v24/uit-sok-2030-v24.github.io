@@ -23,23 +23,20 @@
 |. februar |Seminar 2|Monopol, prisdiskriminering og produktvalg||   
 |  |   |   |
 |            |              |Del 3 Oligopolmodeller|    |
-|13. februar|Forelesning 6 |Spillteori, dominante strategier og Nash-likevekt   |PRN kap. 9.1 - 9.5 og Python Del 3 - 9.4 og 9.5|
-|            |              | Kvantumskonkurranse og Cournot modell|
-|27. februar  |Forelesning 7 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 og Python Del 3 - 10.2 og 10.3|
+|13. februar|Forelesning 6 |Kvantumskonkurranse, Cournot modelltegier og Nash-likevekt   |PRN kap. 9.1 - 9.5 og Python Del 3 - 9.4 og 9.5|
+|20. februar  |Forelesning 7 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 og Python Del 3 - 10.2 og 10.3|
 | mars |Seminar 3|Oligopolmodeller||    
-|5. mars |Forelesning 8|Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 og Python Del 2 - 11.1 og 11.2|   
+|27. februar |Forelesning 8|Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 og Python Del 2 - 11.1 og 11.2|   
 |. mars |Seminar Mappeoppgave I| | |   
 |. mars |Seminar 4|Oligopolmodeller|| 
 |   |   |
 |            |              |Del 4 Konkurranseskadelig strategier|    |
-|12. mars|Forelesning 9 |Prissamarbeid og karteller          |PRN kap. 14.1 - 14.2 og Python Del 4 - 14.1 - 14.2| 
-|19. mars|
-|2. april  |Forelesning 10 |Etableringsbarrierer og strategiske bindinger   |PRN kap. 12.1 - 12.2 og Python Del 4 - 12.2|
+|9. april|Forelesning 9 |Prissamarbeid og karteller          |PRN kap. 14.1 - 14.2 og Python Del 4 - 14.1 - 14.2| 
 |. april |Seminar 5|Konkurranseskadelig strategier||    
 |   |   | 
 |      |      |Del 5 Relasjoner mellom bedrifterr|    |
-|9. apri|Forelesning 11 |Horisontale fusjoner          |PRN kap. 15.1 - 15.2 og 15.5.1 og Python Del 5 - 15.1 - 15.2|      
-|16. apri |Forelesning 12 |Vertikale relasjoner |PRN kap. kap. 16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 og Python Del 5 - 1
+|16. apri|Forelesning 11 |Horisontale fusjoner          |PRN kap. 15.1 - 15.2 og 15.5.1 og Python Del 5 - 15.1 - 15.2|      
+|23. apri |Forelesning 12 |Vertikale relasjoner |PRN kap. kap. 16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 og Python Del 5 - 1
 | |Seminar 6|Horisontale og vertikale relasjoner||    
-|23. april|Forelesning 13|Oppsummering og eksamensoppgaver ||   
+||Forelesning 13|Oppsummering og eksamensoppgaver ||   
 
