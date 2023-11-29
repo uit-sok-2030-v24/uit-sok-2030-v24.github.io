@@ -10,7 +10,7 @@
 |------------|--------------|------------------------|----------------|
 |   |    |   |   |
 |            |  |Del 1 Introduksjon og markedsanalyse|    |
-|09. januar  |Forelesning 1 |Introduksjon            |PRN kap.1 og 3.1
+|09. januar  |Forelesning 1 |Introduksjon, markedsstruktur og konsentrasjon            |PRN kap.1 og 3.1
 |            |              |Markedsstruktur og konsentrasjon              
 |16. januar  |Forelesning 2 |Grunnleggende mikroøkonomi|PRN kap. 2.1 - 2.2 og 4.1|
 |            |              |Frikonkurranse og monopol|Python Del 1 - 2.1.1, 2.1.2 og 2.2|
