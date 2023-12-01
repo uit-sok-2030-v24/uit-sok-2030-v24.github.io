@@ -1,5 +1,5 @@
 {% include navbar.html %}{% include top-box.html %}
-# Sok-xxxx Mikroøkonomi   
+# Sok-2030 Næringsøkonomi og konkurransestrategi   
 
 ## Innleveringer 
 
@@ -15,4 +15,4 @@
 |Mappeoppgave 2                      | xx.xx kl xx:xx    | kommer    |
 
 
-Oppgavene kan løses i grupper på maksimalt 3.
+Mappeoppgavene kan løses i grupper på maksimalt 3. Mappeoppgave 2 løses individuelt.
