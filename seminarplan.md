@@ -1,5 +1,5 @@
 {% include navbar.html %}{% include top-box.html %}
-# SOK-xxxx Kurs    
+# SOK-2030 Næringsøkonomi og konkurransestrategi    
 
 ## Seminarplan   
 
