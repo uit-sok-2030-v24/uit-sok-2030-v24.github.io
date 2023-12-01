@@ -15,4 +15,4 @@
 |Mappeoppgave 2                      | xx.xx kl xx:xx    | kommer    |
 
 
-Mappeoppgavene kan løses i grupper på maksimalt 3. Mappeoppgave 2 løses individuelt.
+Mappeoppgave 1 kan løses i grupper på maksimalt 3. Mappeoppgave 2 løses individuelt.
