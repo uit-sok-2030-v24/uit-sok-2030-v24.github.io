@@ -35,7 +35,7 @@
 |. april |Seminar 5|Konkurranseskadelig strategier||    
 |   |   | 
 |      |      |Del 5 Relasjoner mellom bedrifterr|    |
-|16. apri|Forelesning 11 |Horisontale fusjoner          |PRN kap. 15.1 - 15.2 og 15.5.1 og Python Del 5 - 15.1 - 15.2|      
+|19. apri|Forelesning 11 |Horisontale fusjoner          |PRN kap. 15.1 - 15.2 og 15.5.1 og Python Del 5 - 15.1 - 15.2|      
 |23. apri |Forelesning 12 |Vertikale relasjoner |PRN kap. kap. 16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 og Python Del 5 - 1
 | |Seminar 6|Horisontale og vertikale relasjoner||    
 ||Forelesning 13|Oppsummering og eksamensoppgaver ||   
