@@ -4,7 +4,7 @@
 
 
 
-## Eksempel på tabell for forelesningsplan
+
 
 | Tid        | Forelesning/Seminar      | Tema                   | Pensum         |
 |------------|--------------|------------------------|----------------|
