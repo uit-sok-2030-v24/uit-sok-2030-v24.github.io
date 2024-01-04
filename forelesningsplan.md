@@ -1,5 +1,5 @@
 {% include navbar.html %}{% include top-box.html %}
-# Forelesningsplan  
+# Forelesningsplans - og seminarplan  
 Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminarer
 
 
