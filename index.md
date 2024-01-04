@@ -24,7 +24,7 @@ Konkurransestrategi handler om forståelse av hvordan markeder og bransjer funge
 I kurset vil blant annet følgende tema belyses:
 -	Monopol, prisdiskriminering og produktvalg
 -	Basismodeller for pris- og kvantumskonkurranse
--	Prissamarbeid og strategiske bidinger
+-	Prissamarbeid 
 -	Markedskonsentrasjon, fusjoner og oppkjøp
 -	Vertikale relasjoner
 
