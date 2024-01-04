@@ -1,6 +1,6 @@
 {% include navbar.html %}{% include top-box.html %}
 # Forelesningsplan  
-|Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminarer
+Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminarer
 
 
 
