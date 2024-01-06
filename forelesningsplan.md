@@ -28,7 +28,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |13. februar  |Forelesning 7 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 og Python Del 3 - 10.2 og 10.3|
 | februar |Seminar 5|Bertrand konkurranse og differensiering||    
 |20. februar |Forelesning 8|Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 og Python Del 2 - 11.1 og 11.2|   
-|. februar |Seminar 6 Sekvensiell konkurranse| | |   
+|. februar |Seminar 6| Sekvensiell konkurranse| | |   
 |   |   |
 |            |              |Del 4 Konkurranseskadelig strategier|    |
 |27.februar|Forelesning 9 |Prissamarbeid og karteller          |PRN kap. 14.1 - 14.2 og Python Del 4 - 14.1 - 14.2| 
@@ -37,7 +37,8 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |      |      |Del 5 Relasjoner mellom bedrifterr|    |
 |5. mars|Forelesning 10 |Horisontale fusjoner          |PRN kap. 15.1 - 15.2 og 15.5.1 og Python Del 5 - 15.1 - 15.2|  
 |. mars |Seminar 8|Mappeoppgave 1||  
-|9. apri |Forelesning 12 |Vertikale relasjoner |PRN kap. kap. 16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 og Python Del 5 - 1
+|9. apri |Forelesning 11 |Vertikale relasjoner |PRN kap. kap. 16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 og Python Del 5 - 1
 |april |Seminar 9|Horisontale og vertikale relasjoner||    
-|19. april|Forelesning 13|Oppsummering og eksamensoppgaver ||   
-
+|19. april|Forelesning 12|Oppsummering og eksamensoppgaver ||   
+|april |Seminar 10|Podkast ||  
+|19. april|Forelesning 13|Ekstra || 
