@@ -20,7 +20,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |23. januar |Forelesning 4|Monopol og 1.- og 2. grads prisdiskriminering|PRN kap. 6.1 - 6.3 |    
 |  |Seminar 2 |Monopol og 3. grads prisdiskriminering |Python Del 2 - 5.3 og Python Del 2 - 6.1 | [Oppgaver seminar 2](/Seminar 2 - Oppgaver monopol og prisdiskriminering .pdf)|
 |30. januar |Forelesning 5|Monopol og produktvalg|PRN kap. 7.1 - 7.5 |    
-|. februar |Seminar 3|Monopol og produktdifferensiering| Python Del 2 - 7.3 og 7.5|   
+|. februar |Seminar 3|Monopol og produktdifferensiering| Python Del 2 - 7.3 og 7.5|  [Oppgaver seminar 3](/Seminar 2 - Oppgaver monopol og prisdiskriminering .pdf)| 
 |  |   |   |
 |            |              |Del 3 Oligopolmodeller|    |
 |7. februar|Forelesning 6 |Kvantumskonkurranse, Cournot modelltegier og Nash-likevekt   |PRN kap. 9.1 - 9.5 |
@@ -28,7 +28,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |13. februar  |Forelesning 7 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 |
 | februar |Seminar 5|Bertrand konkurranse og differensiering| Python Del 3 - 10.2 og 10.3|    
 |20. februar |Forelesning 8|Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 |   
-|. februar |Seminar 6| Sekvensiell konkurranse| |og Python Del 2 - 11.1 og 11.2 |   
+|. februar |Seminar 6| Sekvensiell konkurranse|  Python Del 2 - 11.1 og 11.2 |   
 |   |   |
 |            |              |Del 4 Konkurranseskadelig strategier|    |
 |27.februar|Forelesning 9 |Prissamarbeid og karteller          |PRN kap. 14.1 - 14.2 | 
