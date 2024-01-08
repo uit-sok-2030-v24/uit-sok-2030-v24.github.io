@@ -7,11 +7,11 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 
 
 
-| Tid        | Forelesning/Seminar      | Tema                   | Pensum         |
+| Tid        | Forelesning/Seminar      | Tema                   | Pensum/Ressurser        |
 |------------|--------------|------------------------|----------------|
 |   |    |   |   |
 |            |  |Del 1 Introduksjon og markedsanalyse|    |
-|09. januar  |Forelesning 1 |Introduksjon, markedsstruktur og markedskonsentrasjon            |PRN kap.1 og 3.1            
+|09. januar  |Forelesning 1 |Introduksjon, markedsstruktur og markedskonsentrasjon            |PRN kap.1 og 3.1   [Forelesning 1](/Forelesning 1 introduksjon.pdf))   |      
 |16. januar  |Forelesning 2 |Grunnleggende mikroøkonomi,Frikonkurranse og monopol |PRN kap. 2.1 - 2.2 og 4.1, Python Del 1 - 2.1.1, 2.1.2 og 2.2|
 || Seminar 1  |   Oppgaver frikonkurranse og monopol |  [Oppgaver seminar 1](/Seminar 1 - Frikonkurranse og monopol.pdf)|
 |   |   |  |
