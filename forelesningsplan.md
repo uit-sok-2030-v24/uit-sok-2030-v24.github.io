@@ -42,3 +42,4 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |19. april|Forelesning 12|Oppsummering og eksamensoppgaver ||   
 |22. april |Seminar 10|Podkast ||  
 |19. april|Forelesning 13|Ekstra || 
+|13. mai |Seminar 11|Podkast |Mappeoppgave 2|  
