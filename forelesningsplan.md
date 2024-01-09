@@ -8,7 +8,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 
  
 | Tid        | Forelesning/Seminar      | Tema                   | Pensum |    Ressurser |       
-|------------|--------------|------------------------|----------------|-------|      
+|------------|--------------|------------------------|-------------------|-------|      
 |   |    |   |   |
 |            |  |Del 1 Introduksjon og markedsanalyse|    |
 |09. januar  |Forelesning 1 |Introduksjon, markedsstruktur og markedskonsentrasjon            |PRN kap.1 og 3.1  |    [Forelesning 1](/Forelesning 1 - introduksjon.pdf)   |      
@@ -24,7 +24,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |  |   |   |
 |            |              |Del 3 Oligopolmodeller|    |
 |7. februar|Forelesning 6 |Kvantumskonkurranse, Cournot modelltegier og Nash-likevekt   |PRN kap. 9.1 - 9.5 |
-|12.februar |Seminar 4|Cournot modell|Python Del 3 - 9.4 og 9.5| 
+|12. februar |Seminar 4|Cournot modell|Python Del 3 - 9.4 og 9.5| 
 |13. februar  |Forelesning 7 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 |
 |19. februar |Seminar 5|Bertrand konkurranse og differensiering| Python Del 3 - 10.2 og 10.3|    
 |20. februar |Forelesning 8|Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 |   
