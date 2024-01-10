@@ -21,9 +21,10 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 | 29. januar |Seminar 2 |Monopol og 3. grads prisdiskriminering |Python Del 2 - 5.3 og Python Del 2 - 6.1 | [Oppgaver seminar 2](/Seminar 2 - Oppgaver monopol og prisdiskriminering .pdf)|
 |30. januar |Forelesning 5|Monopol og produktvalg|PRN kap. 7.1 - 7.5 |    
 |5. februar |Seminar 3|Monopol og produktdifferensiering| Python Del 2 - 7.3 og 7.5|  [Oppgaver seminar 3](/Seminar 3 - Oppgaver monopol og produktdifferensiering.pdf)| 
+|7. februar|Forelesning 6 |Gjesteforelesning med Ida Jakobsen fra The Egde   | |
 |  |   |   |
 |            |              |Del 3 Oligopolmodeller|    |
-|7. februar|Forelesning 6 |Kvantumskonkurranse, Cournot modelltegier og Nash-likevekt   |PRN kap. 9.1 - 9.5 |
+|7. februar|Forelesning 7 |Kvantumskonkurranse, Cournot modelltegier og Nash-likevekt   |PRN kap. 9.1 - 9.5 |
 |12. februar |Seminar 4|Cournot modell|Python Del 3 - 9.4 og 9.5| 
 |13. februar  |Forelesning 7 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 |
 |19. februar |Seminar 5|Bertrand konkurranse og differensiering| Python Del 3 - 10.2 og 10.3|    
@@ -41,5 +42,4 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |16. april |Seminar 9|Horisontale og vertikale relasjoner|Python Del 5 - 15.1 - 15.2 og 16.1 - 16.2|    
 |19. april|Forelesning 12|Oppsummering og eksamensoppgaver ||   
 |22. april |Seminar 10|Podkast ||  
-|19. april|Forelesning 13|Ekstra || 
 |13. mai |Seminar 11|Podkast |Mappeoppgave 2|  
