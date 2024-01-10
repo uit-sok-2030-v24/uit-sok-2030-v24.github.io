@@ -26,20 +26,20 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |7. februar|Forelesning 6 |Kvantumskonkurranse, Cournot modelltegier og Nash-likevekt   |PRN kap. 9.1 - 9.5 |
 |12. februar |Seminar 4|Cournot modell|Python Del 3 - 9.4 og 9.5| 
 |13. februar|Forelesning 7 |1.Gjesteforelesning med Ida Jakobsen fra The Egde   |2. Gjennomgang av mappeoppgave 1 |
-|13. februar  |Forelesning 7 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 |
+|15. februar  |Forelesning 8 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 |
 |19. februar |Seminar 5|Bertrand konkurranse og differensiering| Python Del 3 - 10.2 og 10.3|    
-|20. februar |Forelesning 8|Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 |   
+|20. februar |Forelesning 9|Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 |   
 |26. februar |Seminar 6| Sekvensiell konkurranse|  Python Del 2 - 11.1 og 11.2 |   
 |   |   |
 |            |              |Del 4 Konkurranseskadelig strategier|    |
-|27.februar|Forelesning 9 |Prissamarbeid og karteller          |PRN kap. 14.1 - 14.2 | 
+|27.februar|Forelesning 10 |Prissamarbeid og karteller          |PRN kap. 14.1 - 14.2 | 
 |4. mars |Seminar 7|Prissamarbeid| Python Del 4 - 14.1 - 14.2| 
   |   |   | 
 |      |      |Del 5 Relasjoner mellom bedrifterr|    |
-|5. mars|Forelesning 10 |Horisontale fusjoner          |PRN kap. 15.1 - 15.2 og 15.5.1 |  
+|5. mars|Forelesning 11 |Horisontale fusjoner          |PRN kap. 15.1 - 15.2 og 15.5.1 |  
 |18. mars |Seminar 8|Mappeoppgave 1||  
-|9. apri |Forelesning 11 |Vertikale relasjoner |PRN kap. kap. 16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 
+|9. apri |Forelesning 12 |Vertikale relasjoner |PRN kap. kap. 16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 
 |16. april |Seminar 9|Horisontale og vertikale relasjoner|Python Del 5 - 15.1 - 15.2 og 16.1 - 16.2|    
-|19. april|Forelesning 12|Oppsummering og eksamensoppgaver ||   
+|19. april|Forelesning 1|Oppsummering og eksamensoppgaver ||   
 |22. april |Seminar 10|Podkast ||  
 |13. mai |Seminar 11|Podkast |Mappeoppgave 2|  
