@@ -40,6 +40,6 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |18. mars |Seminar 8|Mappeoppgave 1||  
 |9. apri |Forelesning 12 |Vertikale relasjoner |PRN kap. kap. 16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 
 |16. april |Seminar 9|Horisontale og vertikale relasjoner|Python Del 5 - 15.1 - 15.2 og 16.1 - 16.2|    
-|19. april|Forelesning 1|Oppsummering og eksamensoppgaver ||   
+|19. april|Forelesning 13|Oppsummering og eksamensoppgaver ||   
 |22. april |Seminar 10|Podkast ||  
 |13. mai |Seminar 11|Podkast |Mappeoppgave 2|  
