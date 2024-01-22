@@ -28,7 +28,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |12. februar |Seminar 4|Cournot modell|Python Del 3 - 9.4 og 9.5| 
 |13. februar|Forelesning 7 |1. Gjesteforelesning med Ida Jakobsen fra Clarion Hotel The Edge   |2. Informasjon om mappeoppgave 1 |
 |15. februar  |Forelesning 8 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 |
-|19. februar |Seminar 5|Bertrand konkurranse og differensiering| Python Del 3 - 10.2 og 10.3|    
+|16. februar |Seminar 5|Bertrand konkurranse og differensiering| Python Del 3 - 10.2 og 10.3|    
 |20. februar |Forelesning 9|Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 |   
 |26. februar |Seminar 6| Sekvensiell konkurranse|  Python Del 2 - 11.1 og 11.2 |   
 |   |   |
