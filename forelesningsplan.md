@@ -30,7 +30,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |15. februar  |Forelesning 8 |Priskonkurranse, Bertrand modell og lokaliseringsmodeller |PRN kap. 10.1 - 10.4 |
 |16. februar |Seminar 5|Bertrand konkurranse og differensiering| Python Del 3 - 10.2 og 10.3|   [Oppgaver seminar 5](/Seminar 5 - Oppgaver Bertrand modell og lokaliseringsmodell.pdf)| 
 |20. februar |Forelesning 9|Sekvensiell konkurranse og Stackelberg modell |PRN kap. 11 |   
-|26. februar |Seminar 6| Sekvensiell konkurranse|  Python Del 2 - 11.1 og 11.2 |   [Oppgaver seminar 6](/ 
+|26. februar |Seminar 6| Sekvensiell konkurranse|  Python Del 2 - 11.1 og 11.2 |   [Oppgaver seminar 6](/Seminar 6 - Oppgave sekvensiell konkurranse.pdf)|
 |   |   |
 |            |              |Del 4 Konkurranseskadelig strategier|    |
 |27.februar|Forelesning 10 |Prissamarbeid og karteller          |PRN kap. 14.1 - 14.2 | 
