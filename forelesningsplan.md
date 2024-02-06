@@ -23,7 +23,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |7. februar |Seminar 3|Monopol og produktdifferensiering| Python Del 2 - 7.3 og 7.5|  [Oppgaver seminar 3](/Seminar 3 - Oppgaver monopol og produktdifferensiering.pdf)| 
 |  |   |   |
 |            |              |Del 3 Oligopolmodeller|    |
-|7. februar|Forelesning 6 |Kvantumskonkurranse, Cournot modelltegier og Nash-likevekt   |PRN kap. 9.1 - 9.5 |
+|7. februar|Forelesning 6 |Kvantumskonkurranse, Cournot modelltegier og Nash-likevekt   |PRN kap. 9.1 - 9.5 |[Forelesning 6](/Forelesning 6 - Kvantumskonkurranse og Cournot modell - til forelesning.pdf)[Notater 6](/Notater til forelesning 5 - monopol, produktvalg og kvalitet.pdf)|Forelesning 6 - Kvantumskonkurranse og Cournot modell - til forelesning.pdf
 | 7. februar| Utlevering av mappeoppgave 1||
 |12. februar |Seminar 4|Cournot modell|Python Del 3 - 9.4 og 9.5| [Oppgaver seminar 4](/Seminar 4 - Cournot modell.pdf)|
 |13. februar|Forelesning 7 |1. Gjesteforelesning med Ida Jakobsen fra Clarion Hotel The Edge   2. Informasjon om mappeoppgave  |
