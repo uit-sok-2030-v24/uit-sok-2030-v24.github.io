@@ -34,7 +34,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |   |   |
 |            |              |Del 4 Konkurranseskadelig strategier|    |
 |29. februar|Forelesning 10 |Prissamarbeid og karteller          |PRN kap. 14.1 - 14.2 | 
-|4. mars |Seminar 7|Prissamarbeid| Python Del 4 - 14.1 - 14.2| 
+|4. mars |Seminar 7|Prissamarbeid| Python Del 4 - 14.1 - 14.2| [Oppgaver seminar 7](/Seminar  7 - Oppgaver prissamarbeid.pdf)|
   |   |   | 
 |      |      |Del 5 Relasjoner mellom bedrifterr|    |
 |5. mars|Forelesning 11 |Horisontale fusjoner          |PRN kap. 15.1 - 15.2 og 15.5.1 |  
