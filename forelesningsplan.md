@@ -33,7 +33,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |27. februar|Forelesning 9 |1. Gjesteforelesning med Ida Jakobsen fra Clarion Hotel The Edge   2. Informasjon om mappeoppgave | | |
 |   |   |
 |            |              |Del 4 Konkurranseskadelig strategier|    |
-|. februar|Forelesning 10 |Prissamarbeid og karteller          |PRN kap. 14.1 - 14.2 | 
+|29. februar|Forelesning 10 |Prissamarbeid og karteller          |PRN kap. 14.1 - 14.2 | 
 |4. mars |Seminar 7|Prissamarbeid| Python Del 4 - 14.1 - 14.2| 
   |   |   | 
 |      |      |Del 5 Relasjoner mellom bedrifterr|    |
