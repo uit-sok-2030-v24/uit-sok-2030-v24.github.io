@@ -41,7 +41,7 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |5. mars|Forelesning 11 |Horisontale fusjoner          |PRN kap. 15.1 - 15.2 og 15.5.1 og Python Del 5 - 15.1 - 15.2  |  
 |18. mars |Seminar 8|Mappeoppgave 1||  
 |9. apri |Forelesning 12 |Vertikale relasjoner |PRN kap. kap. 16.1 – 16.3.1, 17.1 -17.3 og 18.1 – 18.2 og Python 16.1 - 16.2|
-|16. april |Seminar 9|Horisontale og vertikale relasjoner| [Oppgaver seminar 9](/|    
+|16. april |Seminar 9|Horisontale og vertikale relasjoner| [Oppgaver seminar 9](/Seminar 9 - oppgaver horisontal og vertikal fusjon.pdf)|    
 |19. april|Forelesning 13|Oppsummering med gjennomgang av Python-koder ||   
 |22. april |Seminar 10|Podkast ||  
 |23. april|Forelesning 14|Oppsummering med gjennomgang av Python-koder ||   
