@@ -11,7 +11,7 @@
 | Type oppgave                       | Innleveringsfrist | Ressurser |
 |------------------------------------|-------------------|-----------|
 |Mappeoppgave 1                      | 22. mars 2024 kl 13:000           |[Mappeoppgave 1](/Mappeoppgave 1.pdf)     |
-|Arbeidskrav - Podkast               | 26. april 2024 kl 13:00  |    |
+|Arbeidskrav - Podkast               | 26. april 2024 kl 13:00  |[Arbeidskrav](/Arbeidskrav.pdf)   |
 |Mappeoppgave 2                      | 16. mai 2024 kl 13:00  |     |
 
 
