@@ -45,4 +45,5 @@ Undervisningen på SOK-2030 består av fysiske forelesninger og fysiske seminare
 |22. april |Seminar 10|Podkast ||  
 |23. april|Forelesning 12|Oppsummering med gjennomgang av Python-koder ||   
 |7. mai|Forelesning 13|Gjennomgang av tidligere eksamensoppgaver og Python-koder ||   
+|13. mai| Utlevering av mappeoppgave 2|
 
